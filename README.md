@@ -1,2 +1,2 @@
 # DAM2
-Desarollo de aplicaciones Multplataforma
+Desarollo de Aplicaciones Multiplataforma
